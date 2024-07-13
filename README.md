@@ -93,8 +93,6 @@ Feel free to connect with me or explore my projects!
 
 <b>📊 My GitHub Stats</b>
 
-![Profile views](https://gpvc.arturio.dev/lvoltolini)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lvoltolini&show_icons=true&count_private=true&theme=great-gatsby)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lvoltolini&theme=great-gatsby)
