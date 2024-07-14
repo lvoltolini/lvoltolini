@@ -19,7 +19,7 @@ I'm an Italian-Brazilian Mathematician and Data Scientist currently pursuing a M
 ![lvoltolini's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvoltolini&show_icons=true&count_private=true&theme=great-gatsby) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvoltolini&theme=great-gatsby&layout=compact)](https://github.com/lvoltolini)
 </br>
-<b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
+<b>Note:</b> Top languages are only a metric of the languages used in my public code my public code.
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
